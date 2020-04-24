@@ -1,0 +1,22 @@
+{
+  "name": "desafio-tenda",
+  "version": "1.0.0",
+  "description": "Encurtador de url",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Douglas Teixeira",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.6",
+    "mongoose": "^5.9.9",
+    "shortid": "^2.2.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
